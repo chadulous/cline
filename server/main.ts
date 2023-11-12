@@ -1,5 +1,5 @@
-import { auth, express } from "./deps.ts";
+import express from "express"
 
-const app = express();
+const app = express()
 
-app.listen(80, '0.0.0.0')
+app.listen(80, "0.0.0.0")

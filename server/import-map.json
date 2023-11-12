@@ -1,0 +1,6 @@
+{
+	"imports": {
+		"lucia": "npm:lucia@2.7.4",
+		"express": "https://esm.sh/express@4.18.2"
+	}
+}

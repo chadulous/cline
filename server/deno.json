@@ -1,5 +1,11 @@
 {
-  "tasks": {
-    "dev": "deno run --watch main.ts"
-  }
+	"tasks": {
+		"dev": "deno run --watch main.ts"
+	},
+	"importMap": "import-map.json",
+	"fmt": {
+		"indentWidth": 4,
+		"useTabs": true,
+		"semiColons": false
+	}
 }
